@@ -1,0 +1,10 @@
+{
+  "name": "router.io-chat",
+  "version": "0.0.1",
+  "description": "A simple chat example",
+  "author": "PickStone78@163.com",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "3.1.1"
+  }
+}

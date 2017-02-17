@@ -1,0 +1,12 @@
+{
+  "name": "router.io-client",
+  "version": "0.0.1",
+  "description": "The client for exchanging messages",
+  "author": "PickStone78@163.com",
+  "license": "MIT",
+  "main": "./lib/router-client.js",
+  "dependencies": {
+    "events": "1.1.1",
+    "jquery": "3.1.1"
+  }
+}
