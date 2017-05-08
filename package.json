@@ -1,6 +1,6 @@
 {
-  "name": "router.io-client",
-  "version": "0.0.1",
+  "name": "router.io.client",
+  "version": "0.1.0",
   "description": "The client for exchanging messages",
   "author": "PickStone78@163.com",
   "license": "MIT",

@@ -1,3 +1,5 @@
+"use strict";
+
 const $ = require("jquery");
 const router = require("../../../router.io.client")('http://localhost:3000');
 
