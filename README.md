@@ -10,7 +10,7 @@
 
 生成用于发布消息的数据管道，返回channel。
 
-* router.subscribe(exchange, callback)
+* router.subscribe(exchange[, callback])
 
 生成用于订阅消息的数据管道，返回channel。
 

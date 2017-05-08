@@ -1,5 +1,5 @@
 const $ = require("jquery");
-const router = require("../../../router.io-client")('http://localhost:3000');
+const router = require("../../../router.io.client")('http://localhost:3000');
 
 var publishChannel = router.publish('test');
 
